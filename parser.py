@@ -1,4 +1,4 @@
-# %%
+
 import  praw
 import  pandas as pd
 import  regex as re
@@ -269,5 +269,3 @@ driver.close()
 set_with_dataframe(ws, ordered)
 
 
-
-# %%
